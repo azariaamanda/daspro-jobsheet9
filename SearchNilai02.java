@@ -15,5 +15,4 @@ public class SearchNilai02 {
         System.out.println("Nilai " + key + " ketemu di indeks ke-" + hasil);
         System.out.println();
     }
-    
 }
