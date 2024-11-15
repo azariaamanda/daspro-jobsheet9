@@ -30,7 +30,6 @@ public class SearchNilai02 {
             System.out.println("Nilai yang dicaritidak ditemukan.");
         }
 
-        
         // awal percobaan sebelum dimodifikasi
         // int[] arrNilai = {80, 85, 78, 96, 90, 82, 86};
         // int key = 90;
